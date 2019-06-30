@@ -1,5 +1,4 @@
-"""square root"""
-
+""" Why we need higher-order functions?    Manage complexity"""
 
 def improved_square_guess(n,guess):
     return (guess+(n/guess)) / 2
