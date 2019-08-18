@@ -1,3 +1,3 @@
 # CS61A
 
-[courseLink](https://cs61a.org)
+[Course Link](https://cs61a.org)
