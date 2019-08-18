@@ -1,0 +1,7 @@
+(define (counting-up n)
+    (define (helper k)
+        print(k)
+        (if (< k n)
+            (helper (+ k 1))))
+    (counter 1)
+)
